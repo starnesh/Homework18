@@ -1,0 +1,91 @@
+body{
+    background-color: #BB9776;
+}
+.mySkills{
+    position: absolute;
+    width: 969px;
+    height: 261px;
+    left: 89px;
+    top: 248px;
+
+    font-family: 'SF Pro Rounded';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 96px;
+    line-height: 115px;
+    display: flex;
+    align-items: center;
+}
+.flexContainer{
+    display: flex;
+}
+
+.Number1{
+    position: absolute;
+    width: 1016px;
+    height: 350px;
+    left: 629px;
+    top: 770px;
+    
+    font-family: 'SF Pro Rounded';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    display: flex;
+    align-items: center;
+}
+.HiMyNameIsHannah{
+    position: absolute;
+    width: 488px;
+    height: 320px;
+    left: 89px;
+    top: 785px;
+    border-radius: 10px;
+}
+.Number2{
+    position: absolute;
+    width: 1016px;
+    height: 350px;
+    left: 629px;
+    top: 770px;
+    
+    font-family: 'SF Pro Rounded';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    display: flex;
+    align-items: center;
+}
+.MoreHannah{
+    position: absolute;
+    width: 488px;
+    height: 320px;
+    left: 89px;
+    top: 785px;
+    border-radius: 10px;
+}
+.Number3{
+    position: absolute;
+    width: 1016px;
+    height: 350px;
+    left: 629px;
+    top: 770px;
+    
+    font-family: 'SF Pro Rounded';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    display: flex;
+    align-items: center;
+}
+.HelloHannah{
+    position: absolute;
+    width: 488px;
+    height: 320px;
+    left: 89px;
+    top: 785px;
+    border-radius: 10px;  
+}
