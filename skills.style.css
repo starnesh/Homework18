@@ -1,0 +1,90 @@
+section{
+    background-color: #BB9776;
+    font-family: 'SF Pro Rounded';
+}
+.mySkills{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-family: 'SF Pro Rounded';
+    font-style: bold;
+    font-size: 96px;
+    color: #FFFFFF;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.Number1{
+    position: relative;
+    width: 30%;
+    font-family: 'SF Pro Rounded';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 36px;
+    flex-direction: column;
+}
+.para1{
+    position: relative;
+    background-color:#262421;
+    padding: 20px;
+    color: #FFFFFF;
+    width: auto;
+    direction: ltr;
+    font-size: 28px;
+
+}
+.HiMyNameIsHannah{
+    position: relative;
+    border-radius: 10px; 
+    justify-items: center;
+}
+.Number2{
+    position: relative;
+    width: 30%;
+    font-family: 'SF Pro Rounded';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 36px;
+    flex-direction: column;
+}
+.para2{
+    position: relative;
+    background-color:#262421;
+    padding: 20px;
+    color: #FFFFFF;
+    width: auto;
+    direction: ltr;
+    font-size: 28px;
+}
+.MoreHannah{
+    position: relative;
+    border-radius: 10px;
+    justify-items: center;
+}
+.Number3{
+    position: right;
+    width: 30%;
+    font-family: 'SF Pro Rounded';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 36px;
+    flex-direction: column;
+}
+.para3{
+    position: relative;
+    background-color:#262421;
+    padding: 20px;
+    color: #FFFFFF;
+    width: auto;
+    direction: ltr;
+    font-size: 28px;
+}
+.HelloHannah{
+    position: relative;
+    border-radius: 10px;  
+    justify-items: center;
+}
